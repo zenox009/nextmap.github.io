@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-05-08T03:57:58.089Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2017/05/08/README/"/>
+    <id>http://yoursite.com/2017/05/08/README/</id>
+    <published>2017-05-08T04:14:03.223Z</published>
+    <updated>2017-05-08T03:57:58.089Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Welcome-to-GitHub-Pages"><a href="#Welcome-to-GitHub-Pages" class="headerlink" title="Welcome to GitHub Pages"></a>Welcome to GitHub Pages</h2><p>You can use the <a href="https://github.com/Nextmap/nextmap.github.io/edit/master/README.md" target="_blank" rel="external">editor on GitHub</a> to maintain and preview the content for your website in Markdown files.</p>
+<p>Whenever you commit to this repository, GitHub Pages will run <a href="https://jekyllrb.com/" target="_blank" rel="external">Jekyll</a> to rebuild the pages in your site, from the content in your Markdown files.</p>
+<h3 id="Markdown"><a href="#Markdown" class="headerlink" title="Markdown"></a>Markdown</h3><p>Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for</p>
+<figure class="highlight markdown"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div></pre></td><td class="code"><pre><div class="line">Syntax highlighted code block</div><div class="line"></div><div class="line"><span class="section"># Header 1</span></div><div class="line"><span class="section">## Header 2</span></div><div class="line"><span class="section">### Header 3</span></div><div class="line"></div><div class="line"><span class="bullet">- </span>Bulleted</div><div class="line"><span class="bullet">- </span>List</div><div class="line"></div><div class="line"><span class="bullet">1. </span>Numbered</div><div class="line"><span class="bullet">2. </span>List</div><div class="line"></div><div class="line"><span class="strong">**Bold**</span> and <span class="emphasis">_Italic_</span> and <span class="code">`Code`</span> text</div><div class="line"></div><div class="line">[<span class="string">Link</span>](<span class="link">url</span>) and ![<span class="string">Image</span>](<span class="link">src</span>)</div></pre></td></tr></table></figure>
+<p>For more details see <a href="https://guides.github.com/features/mastering-markdown/" target="_blank" rel="external">GitHub Flavored Markdown</a>.</p>
+<h3 id="Jekyll-Themes"><a href="#Jekyll-Themes" class="headerlink" title="Jekyll Themes"></a>Jekyll Themes</h3><p>Your Pages site will use the layout and styles from the Jekyll theme you have selected in your <a href="https://github.com/Nextmap/nextmap.github.io/settings" target="_blank" rel="external">repository settings</a>. The name of this theme is saved in the Jekyll <code>_config.yml</code> configuration file.</p>
+<h3 id="Support-or-Contact"><a href="#Support-or-Contact" class="headerlink" title="Support or Contact"></a>Support or Contact</h3><p>Having trouble with Pages? Check out our <a href="https://help.github.com/categories/github-pages-basics/" target="_blank" rel="external">documentation</a> or <a href="https://github.com/contact" target="_blank" rel="external">contact support</a> and we’ll help you sort it out.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Welcome-to-GitHub-Pages&quot;&gt;&lt;a href=&quot;#Welcome-to-GitHub-Pages&quot; class=&quot;headerlink&quot; title=&quot;Welcome to GitHub Pages&quot;&gt;&lt;/a&gt;Welcome to GitHub
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>NextMap</title>
+    <link href="http://yoursite.com/2017/05/08/NextMap/"/>
+    <id>http://yoursite.com/2017/05/08/NextMap/</id>
+    <published>2017-05-08T04:13:45.000Z</published>
+    <updated>2017-05-08T04:13:45.283Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2017/05/08/hello-world/"/>
+    <id>http://yoursite.com/2017/05/08/hello-world/</id>
+    <published>2017-05-08T04:04:14.637Z</published>
+    <updated>2017-05-08T04:04:14.640Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
